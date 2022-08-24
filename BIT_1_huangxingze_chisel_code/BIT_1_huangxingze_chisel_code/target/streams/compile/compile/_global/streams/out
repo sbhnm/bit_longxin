@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/data/longxin/nscscc2022_group_qualifier_submission/submission/BIT_1_huangxingze_chisel_code/src/main/scala/mips_cpu_cache/core/cu.scala:187:51: method copyArrayToImmutableIndexedSeq in class LowPriorityImplicits2 is deprecated (since 2.13.0): Implicit conversions from Array to immutable.IndexedSeq are implemented by copying; Use the more efficient non-copying ArraySeq.unsafeWrapArray or an explicit toIndexedSeq call[0m
+[0m[[0m[33mwarn[0m] [0m[0m        ( OP_PRIVILEGE) -> MuxCase(ID_NULL.U,Array( //后面这里可以改,在id时就开始算分支[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

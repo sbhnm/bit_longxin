@@ -1,0 +1,1 @@
+终端下输入sbt，然后直接输入run即可编译出对应的verilog代码 mycpu_top.v

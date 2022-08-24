@@ -1,0 +1,2 @@
+signed_mul.vhd,vhdl,xil_defaultlib,../../../../project_1.srcs/sources_1/ip/signed_mul/sim/signed_mul.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

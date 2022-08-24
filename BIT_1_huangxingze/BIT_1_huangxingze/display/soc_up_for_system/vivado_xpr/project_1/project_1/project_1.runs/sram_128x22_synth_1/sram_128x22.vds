@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Aug  7 18:29:16 2022
+# Process ID: 626624
+# Current directory: /data/longxin/learning/ic_design/nscscc-group/soc_run_os_v0.01/soc_up/vivado_xpr/project_1/project_1/project_1.runs/sram_128x22_synth_1
+# Command line: vivado -log sram_128x22.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sram_128x22.tcl
+# Log file: /data/longxin/learning/ic_design/nscscc-group/soc_run_os_v0.01/soc_up/vivado_xpr/project_1/project_1/project_1.runs/sram_128x22_synth_1/sram_128x22.vds
+# Journal file: /data/longxin/learning/ic_design/nscscc-group/soc_run_os_v0.01/soc_up/vivado_xpr/project_1/project_1/project_1.runs/sram_128x22_synth_1/vivado.jou
+#-----------------------------------------------------------
+source sram_128x22.tcl -notrace
+WARNING: [Vivado 12-818] No files matched '/home/ddddddd/learning/ic_design/nscscc-group/soc_run_os_v0.01/soc_up/vivado_xpr/project_1/xilinx_ip/sram_128x22/sram_128x22_ooc.xdc'
+ERROR: [Common 17-55] 'set_property' expects at least one object.
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+INFO: [Common 17-206] Exiting Vivado at Sun Aug  7 18:29:42 2022...
